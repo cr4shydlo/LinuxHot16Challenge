@@ -4,8 +4,8 @@
 # HOT 16
 # 1. sudo aplikacja                 
 # wykonanie aplikacja z podniesionymi uprawnień do administratora
-# 2. find 
-# wyszukiwanie pliku na serwerze
+# 2. find /var -name flaga.service
+# wyszukiwanie pliku flaga.service w katalogu /var
 # 3. grep
 # wyszukiwanie po wzorcu
 # 4. ifconfig
@@ -18,7 +18,7 @@
 # wyświetlanie 20 linii początkowych pliku
 # 8. tail -n 20 plik
 # wyświetlanie 20 linii końcowych pliku
-# 9. tar
+# 9. tar 
 # pakowanie/rozpakowywanie plików
 # 10. rm 
 # usuwanie plików / katalogów
