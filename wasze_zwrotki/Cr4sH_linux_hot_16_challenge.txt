@@ -26,8 +26,8 @@
 # wyświetlanie procesów
 # 12. df 
 # wyświetlanie zajętości dysku
-# 13. ls 
-# listowanie plików w katalogu
+# 13. man komenda
+# wyświetlenie stron pomocy dla komenda
 # 14. chmod 
 # zmiana uprawnień pliku
 # 15. chown 
