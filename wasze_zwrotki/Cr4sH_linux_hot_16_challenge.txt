@@ -1,0 +1,42 @@
+# AUTOR: Cr4sH
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+# 1. sudo aplikacja                 
+# wykonanie aplikacja z podniesionymi uprawnień do administratora
+# 2. find /var -name flaga.service
+# wyszukiwanie pliku flaga.service w katalogu /var
+# 3. grep
+# wyszukiwanie po wzorcu
+# 4. ifconfig
+# wyświetlenie ustawień kart sieciowych
+# 5. top
+# wyświetla procesy i stan systemu
+# 6. cat plik
+# wyświetlanie pliku
+# 7. head -n 20 plik
+# wyświetlanie 20 linii początkowych pliku
+# 8. tail -n 20 plik
+# wyświetlanie 20 linii końcowych pliku
+# 9. tar 
+# pakowanie/rozpakowywanie plików
+# 10. rm 
+# usuwanie plików / katalogów
+# 11. ps 
+# wyświetlanie procesów
+# 12. df 
+# wyświetlanie zajętości dysku
+# 13. man komenda
+# wyświetlenie stron pomocy dla komenda
+# 14. chmod 
+# zmiana uprawnień pliku
+# 15. chown 
+# zmiana właściciela pliku
+# 16. dmesg 
+# wyświetlenie wiadomości z bootowania
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
